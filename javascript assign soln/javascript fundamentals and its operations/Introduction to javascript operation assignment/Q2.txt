@@ -1,0 +1,9 @@
+Q2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for
+each category.
+
+operators in Javascript:-
+1. Arthmetic operators  = perform mathematical operations (+,-,*,**,/,%,++,--)
+2. Assignment operator = use to assign value to the operators (=, +=, -=, *=, /=, %= ,**=)
+3. Comparision operator = use to compare two values (==, ===, !=, !==, >, <, >=, <= ,?)
+4. Logical operators = use to determine the logic between variable ( &&, ||, !)
+

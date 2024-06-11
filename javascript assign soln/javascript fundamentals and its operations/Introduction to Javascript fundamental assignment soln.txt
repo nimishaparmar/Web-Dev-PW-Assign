@@ -1,0 +1,90 @@
+Question 1: Explain what JavaScript is and its role in web development.
+
+JavaScript is a Versatile programming language used in websites to make them more interactive and dynamic. It helps in showing things like pop-ups, updating content without reloading the page, and responding to what users do on the site. So, it's like the behind-the-scenes magic that makes websites more engaging and responsive.
+
+_________________________________________________________________________________________________________________________________________
+
+Question 2: Explain the key differences between JavaScript and HTML. Provide examples of situations where
+you would use each.
+
+HTML (Hypertext Markup Language) and JavaScript serve different purposes in web development. They often work together to create a complete and engaging web experience.
+
+1. HTML (structure/content):= HTML is the backbone of web pages, defining the structure and content.
+   Example:-
+     html
+     <html>
+       <head>
+         <title>My Web Page</title>
+       </head>
+       <body>
+         <h1>Welcome to my website!</h1>
+         <p>This is a simple example of HTML.</p>
+       </body>
+     </html>
+     
+   Use Case:- Use HTML to create the basic structure of a webpage, such as headings, paragraphs, images, and links.
+
+2. JavaScript (behavior/interactivity):= JavaScript adds interactivity and dynamic behavior to web pages.
+   Example:-
+     javascript
+     // JavaScript example for a simple alert
+     alert("Welcome! This is JavaScript in action.");
+     
+   Use Case:- Use JavaScript for tasks like handling user input, updating content without refreshing the page, creating animations, and interacting with the server.
+
+________________________________________________________________________________________________________________________________________
+
+Question 3: List and describe the five primitive data types in JavaScript.
+
+JavaScript has five primitive data types:-
+
+Number:- Number datatype includes the numeric values. It can be integer , decimal , Nan and infinity.
+    ex: let number = 10;
+	let integer = 5.6;
+	let notnumber = Nan;
+	let positiveinfinity = infinity;
+String:- String Datatype represents the sequence of characters that are surrounded by single or double quotes.
+    ex: let str = 'Nimisha';
+	let str1 = "Hello Nimisha ";
+	let str3 = `My name is ${str}`;
+Boolean:- Boolean datatype can accept only two values i.e. True and False.
+    ex: let data1is = true;
+	let data2is = false;
+Null:- Null datatype can hold only one possible value that is null.
+    ex: let x = null;
+Undefined:- Undefined datatype representa a variable that has been declared but has not been assigned a value.
+    ex: let xyz;
+
+__________________________________________________________________________________________________________________________________________
+
+Question 4: What is the purpose of declaring variables in JavaScript, and how do you declare them using the
+'let' keyword?
+
+The purpose of declaring data variables in JavaScript is to reserve memory to store data values that can be manipulated, reused, and controlled according to the flow of the program.
+
+We use the "let" keyword to declare a variable. For example:
+let variableName;
+In this example, "let" indicates the declaration of a variable, and "variableName" represents the variable. You can change it to a relevant variable name following JavaScript variable naming rules, such as starting with a letter.
+
+__________________________________________________________________________________________________________________________________________
+
+Question 5: Explain the importance of comments in JavaScript and provide examples of single-line and
+multi-line comments.
+
+Comments in JavaScript are essential for code readability, maintainability, and collaboration among other developers. it help other developers understand the code and why certain lines are used where they are. Comments make the code more readable and easier to maintain, playing a crucial role during debugging.
+
+Single-line comments use double slashes "//" to create a comment:
+// This is a single-line comment
+
+Multiple-line comments use "/" to begin a comment and "/" to end it. Everything between these symbols is treated as a comment:
+/* 
+This is a
+multiple-line comment
+*/
+
+__________________________________________________________________________________________________________________________________________
+
+Question 6: Explain the importance of choosing meaningful and descriptive variable names in JavaScript.
+Provide an example where using a clear identifier improves code readability.
+
+Choosing meaningful variable names in JavaScript is crucial for code readability, maintainability, documentation, collaboration, and code review. It helps make your code more readable and reduces the chances of bugs during debugging. Meaningful variable names also reduce the need for additional comments. When working in a team, they help communicate among developers, prevent errors, and make it easier for reviewers to review the code.

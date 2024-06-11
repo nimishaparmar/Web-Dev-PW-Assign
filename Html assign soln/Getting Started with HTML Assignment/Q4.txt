@@ -1,0 +1,13 @@
+HTML Tag:- 
+HTML tags are the keywords on a web page that define how your web browser must format and display your
+web page. Almost all tags contain two parts, an opening, and a closing tag. For example, <opening tag> 
+is the opening tag and </closing tag> is the closing tag.
+There are four required tags in HTML.These are html, title, head and body.
+
+HTML Element :-
+An HTML element is defined by a starting tag. If the element contains other content, it ends with a
+closing tag. For example, <p> is starting tag of a paragraph and </p> is closing tag of the same 
+paragraph but < p>This is paragraph</p> is a paragraph element.
+There are three kinds of HTML elements: normal elements, raw text elements, and void elements. 
+Normal elements usually have both a start tag and an end tag, although for some elements the end tag,
+or both tags, can be omitted.

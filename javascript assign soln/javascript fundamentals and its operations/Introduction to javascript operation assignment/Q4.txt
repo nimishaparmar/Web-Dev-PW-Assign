@@ -1,0 +1,7 @@
+Q4. Discuss the precedence and associativity of operators in JavaScript. Why is understanding these concepts important?
+
+a.Precedence :- it determines which operators are evaluated first in an expression.
+b.Associativity :- it defines the order in which operators of the same precedence are evaluated.
+
+Understanding these concepts is crucial for writing expressions that behave as expected and for avoiding errors in JavaScript code.
+it can be also used to optimized the code.
